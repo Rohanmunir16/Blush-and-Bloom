@@ -152,5 +152,4 @@ This project is created for educational and learning purposes.
 * Checkout Page: 
 * Order Confirmation Page: 
 
-I'm here to help!
 
